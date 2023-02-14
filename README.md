@@ -1,1 +1,1 @@
-# lemoncode-bootcamp-javascript-continuo-modulo-1
+Prácticas del bootcamp javascript continuo lemoncode - Módulo 0 - Introducción.
