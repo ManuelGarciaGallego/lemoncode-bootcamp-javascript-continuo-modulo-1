@@ -7,10 +7,6 @@ body {
   width: 50%;
 }
 
-.data {
-  padding: 16px;
-}
-
 input {
   width: 100%;
   padding: 12px 20px;
@@ -30,3 +26,19 @@ img.avatar {
   width: 40%;
   border-radius: 50%;
 }  
+
+.data,
+.actions {
+    padding: 16px;
+}
+
+button {
+    background-color: #c7b93e;
+    bottom: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+}
