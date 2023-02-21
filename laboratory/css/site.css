@@ -5,6 +5,7 @@ body {
 .container {
   margin: auto;
   width: 50%;
+  justify-content: center;
 }
 
 input {
@@ -26,11 +27,6 @@ img.avatar {
   width: 40%;
   border-radius: 50%;
 }  
-
-.data,
-.actions {
-    padding: 16px;
-}
 
 button {
     background-color: #c7b93e;
